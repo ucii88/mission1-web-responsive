@@ -1,7 +1,7 @@
-# Portfolio Suci Sulistiawati
+# Portofolio Suci Sulistiawati
 
 # Deskripsi Proyek
-Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, keterampilan, dan proyek-proyek yang telah dikerjakan. Website ini dibuat sebagai tugas Mission 1 - Web Responsive Challenge untuk mata kuliah Pengembangan Perangkat Lunak Berbasis Web. 
+Landing page portofolio responsive yang menampilkan profil pribadi, pendidikan, Skills, dan proyek-proyek yang telah dikerjakan. Website ini dibuat sebagai tugas Mission 1 - Web Responsive Challenge untuk mata kuliah Pengembangan Perangkat Lunak Berbasis Web. 
 
 # Teknologi yang Digunakan
 - **HTML5**                  : Struktur halaman semantik 
@@ -9,7 +9,7 @@ Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, k
 - **JavaScript**             : Interactive navigation dan smooth scrolling
 - **Bootstrap 5.3.0**        : Grid system dan utility classes (minimal usage)
 - **Font Awesome 6.4.0**     : Icon library untuk visual elements
-- **Google Fonts (Poppins)** : Font yang digunakan
+- **Google Fonts (Poppins)** : Font utama yang digunakan
 - **CDN CloudFlare**         : Untuk loading frameworks dan libraries
 
 # Fitur Utama
@@ -25,7 +25,7 @@ Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, k
 
 ## Bukti Modifikasi Framework CSS 
 
-- Earth tone color palette 
+- Earth tone color palette menggantikan default Bootstrap colors di seluruh elemen (navbar, buttons, cards).
 - Complete typography system dengan Poppins font, menggantikan default Bootstrap.
 - Custom hero section dengan gradient, SVG pattern, dan animasi float.
 - Interactive timeline education dengan background images dan pseudo-elements.
@@ -33,7 +33,7 @@ Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, k
 - Smooth scrolling navigation dengan active highlighting via JavaScript kustom.
 - Responsive breakpoints kustom untuk mobile, tablet, desktop.
 - Hover effects dan micro-interactions di seluruh website (translate, scale).
-- CSS kustom: 487 baris 75%
+- CSS kustom: 487 baris 75% modifikasi
 - Kelas HTML: 54% kustom (135/250)
 
 # Bukti Gambar Modifikasi
@@ -43,7 +43,6 @@ Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, k
 **Skills**
 ![Skills Bootsrap](/skillsBootstrap.png)
 ![Skills Modifikasi](/skillsModifikasi.png)
-
 
 # Link Deploy
 Website ini sudah berhasil deploy dan dapat diakses di:
