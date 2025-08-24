@@ -40,9 +40,9 @@ Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, k
 **Navbar**
 ![navbar Bootsrap](/navbarBootstrap.png)
 ![navbar Modifikasi](/navbarModifikasi.png)
-**Skllis**
-![Skills Bootsrap](/SkillsBootstrap.png)
-![Skills Modifikasi](/SkillsModifikasi.png)
+**Skills**
+![Skills Bootsrap](/skillsBootstrap.png)
+![Skills Modifikasi](/skillsModifikasi.png)
 
 
 # Link Deploy
