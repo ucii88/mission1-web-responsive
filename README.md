@@ -25,3 +25,6 @@ Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, k
 
 # Link Deploy
 Website ini sudah berhasil deploy dan dapat diakses di:
+👉 [Portofolio Suci Sulistiawati](https://ucii88.github.io/mission1-web-responsive/) 
+
+![preview img](/preview.png)
