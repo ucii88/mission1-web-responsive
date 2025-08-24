@@ -23,6 +23,28 @@ Landing page portfolio responsive yang menampilkan profil pribadi, pendidikan, k
 - **Gallery**      : 8 foto 
 - **Navigation**   : Menu navigasi smooth scroll dengan highlight aktif
 
+## Bukti Modifikasi Framework CSS 
+
+- Earth tone color palette 
+- Complete typography system dengan Poppins font, menggantikan default Bootstrap.
+- Custom hero section dengan gradient, SVG pattern, dan animasi float.
+- Interactive timeline education dengan background images dan pseudo-elements.
+- Custom card components untuk skills, projects, certificates dengan hover effects.
+- Smooth scrolling navigation dengan active highlighting via JavaScript kustom.
+- Responsive breakpoints kustom untuk mobile, tablet, desktop.
+- Hover effects dan micro-interactions di seluruh website (translate, scale).
+- CSS kustom: 487 baris 75%
+- Kelas HTML: 54% kustom (135/250)
+
+# Bukti Gambar Modifikasi
+**Navbar**
+![navbar Bootsrap](/navbarBootstrap.png)
+![navbar Modifikasi](/navbarModifikasi.png)
+**Skllis**
+![Skills Bootsrap](/SkillsBootstrap.png)
+![Skills Modifikasi](/SkillsModifikasi.png)
+
+
 # Link Deploy
 Website ini sudah berhasil deploy dan dapat diakses di:
 👉 [Portofolio Suci Sulistiawati](https://ucii88.github.io/mission1-web-responsive/) 
